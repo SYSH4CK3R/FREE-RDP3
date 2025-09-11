@@ -15,7 +15,7 @@ Contact [SYSH4CK3R](https://t.me/SysH4ck3r).
    bash rdp3.sh
    ```
 4. ```bash
-   PORT : 6070
+   PORT : 6080
    ```
 ### [+] Installation Exe
 
